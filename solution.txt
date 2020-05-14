@@ -1,0 +1,8 @@
+This project presents lung cancer detection based on chest CT images using 
+CNN. In the first stage, lung regions are extracted from the CT images.The
+extracted images are used to train CNN architecture.Then, CNN is used to 
+test the patient images. The main objective of this study is to detect 
+whether the tumor present in a patient’s lung is malignant or benign a
+web application is built which gives the feasibility of uploading the ct
+scan image this app is integrated with the model the models detects the 
+tumor and prediction is shown on UI
