@@ -5,4 +5,4 @@ test the patient images. The main objective of this study is to detect
 whether the tumor present in a patient’s lung is malignant or benign a
 web application is built which gives the feasibility of uploading the ct
 scan image this app is integrated with the model the models detects the 
-tumor and prediction is shown on UI
+tumor and prediction is shown on UI.
